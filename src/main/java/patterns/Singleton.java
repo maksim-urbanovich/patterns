@@ -1,3 +1,5 @@
+package src.main.java.patterns;
+
 public class Singleton {
         private static volatile Singleton instance;
 	
